@@ -4,3 +4,5 @@
 24508.5
 24498.4
 9284.5
+
+Are these some new data?
